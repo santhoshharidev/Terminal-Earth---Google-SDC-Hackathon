@@ -197,7 +197,7 @@ clear history
 
 ## 🎥 Demo
 
-A complete project demonstration video is available in this repository.
+A complete project demonstration video is available in this repository with the name "Terminal Earth Demonstration.mp4".
 
 ---
 
