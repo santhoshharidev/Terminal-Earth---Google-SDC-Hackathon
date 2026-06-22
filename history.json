@@ -1,0 +1,322 @@
+[
+    {
+        "timestamp": "2026-06-19 21:49:01",
+        "command": "move 500kg from chennai to bangalore with 15000rs as budget and should be delivered within 2 days",
+        "source": "Chennai",
+        "destination": "Bangalore",
+        "recommended_mode": "Truck",
+        "estimated_cost": "~12000-14000rs"
+    },
+    {
+        "timestamp": "2026-06-19 21:51:03",
+        "command": "move 500kg from chennai to bangalore with 15000rs as budget and should be delivered within 2 days",
+        "source": "Chennai",
+        "destination": "Bangalore",
+        "recommended_mode": "Truck",
+        "estimated_cost": "~12000-14000 INR"
+    },
+    {
+        "timestamp": "2026-06-19 21:52:06",
+        "command": "move 1000kg of goods from chennai to Delhi with 300000rs as budget and should be delivered within 1 or 2 days",
+        "source": "Chennai",
+        "destination": "Delhi",
+        "recommended_mode": "Truck",
+        "estimated_cost": "20000-30000 Rs"
+    },
+    {
+        "timestamp": "2026-06-19 21:53:01",
+        "command": "what if in 10 hors immediately ?",
+        "source": "Delhi",
+        "destination": "Mumbai",
+        "recommended_mode": "Air Cargo",
+        "estimated_cost": "High"
+    },
+    {
+        "timestamp": "2026-06-19 22:01:39",
+        "command": "move 1000kg of goods from chennai to Delhi with 300000rs as budget and should be delivered within 1 or 2 days",
+        "source": "Chennai",
+        "destination": "Delhi",
+        "recommended_mode": "Truck",
+        "estimated_cost": "300000 INR"
+    },
+    {
+        "timestamp": "2026-06-19 22:02:24",
+        "command": "what if in 10 hors immediately ?",
+        "source": "Chennai",
+        "destination": "Delhi",
+        "recommended_mode": "Air Cargo",
+        "estimated_cost": "1500000 INR"
+    },
+    {
+        "timestamp": "2026-06-19 22:03:31",
+        "command": "thank you",
+        "source": "Chennai",
+        "destination": "Delhi",
+        "recommended_mode": "Air Cargo",
+        "estimated_cost": "1,500,000 INR"
+    },
+    {
+        "timestamp": "2026-06-19 22:07:54",
+        "command": "move 1000kg of goods from chennai to Delhi with 300000rs as budget and should be delivered within 1 or 2 days",
+        "source": "Chennai",
+        "destination": "Delhi",
+        "recommended_mode": "Truck",
+        "estimated_cost": "280k INR"
+    },
+    {
+        "timestamp": "2026-06-19 22:09:34",
+        "command": "move 1000kg of goods from chennai to Delhi with 300000rs as budget and should be delivered within 1 or 2 days",
+        "source": "Chennai",
+        "destination": "Delhi",
+        "recommended_mode": "Truck",
+        "estimated_cost": "280k INR"
+    },
+    {
+        "timestamp": "2026-06-19 22:12:48",
+        "command": "move 1000kg of goods from chennai to Delhi with 300000rs as budget and should be delivered within 1 or 2 days",
+        "source": "Chennai",
+        "destination": "Delhi",
+        "recommended_mode": "Truck",
+        "estimated_cost": "280k INR"
+    },
+    {
+        "timestamp": "2026-06-19 22:16:28",
+        "command": "move 1000kg of goods from chennai to Delhi with 300000rs as budget and should be delivered within 1 or 2 days",
+        "source": "Chennai",
+        "destination": "Delhi",
+        "recommended_mode": "Truck",
+        "estimated_cost": "25k-60k INR"
+    },
+    {
+        "timestamp": "2026-06-19 22:16:45",
+        "command": "move 500kg from chennai to bangalore with 15000rs as budget and should be delivered within 2 days",
+        "source": "Chennai",
+        "destination": "Bangalore",
+        "recommended_mode": "Truck",
+        "estimated_cost": "10k-25k INR"
+    },
+    {
+        "timestamp": "2026-06-20 11:37:32",
+        "command": "Move 1000kg of goods from chennai to delhi with budget of 200000 within 2 days",
+        "source": "Chennai",
+        "destination": "Delhi",
+        "recommended_mode": "Truck",
+        "estimated_cost": "25k-60k INR"
+    },
+    {
+        "timestamp": "2026-06-20 12:15:50",
+        "command": "Move 1000kg of goods from chennai to delhi with budget of 200000 within 2 days",
+        "source": "Chennai",
+        "destination": "Delhi",
+        "recommended_mode": "Truck",
+        "estimated_cost": "25k-60k INR"
+    },
+    {
+        "timestamp": "2026-06-20 12:25:14",
+        "command": "Move 1000kg of goods from chennai to delhi with budget of 200000 within 2 days",
+        "source": "Chennai",
+        "destination": "Delhi",
+        "recommended_mode": "Truck",
+        "estimated_cost": "25k-60k INR"
+    },
+    {
+        "timestamp": "2026-06-20 12:30:55",
+        "command": "Move 1000kg of goods from chennai to delhi with budget of 200000 within 2 days",
+        "source": "Chennai",
+        "destination": "Delhi",
+        "recommended_mode": "Truck",
+        "estimated_cost": "25k-60k INR"
+    },
+    {
+        "timestamp": "2026-06-20 12:34:33",
+        "command": "Move 1000kg of goods from chennai to delhi with budget of 200000 within 2 days",
+        "source": "Chennai",
+        "destination": "Delhi",
+        "recommended_mode": "Truck",
+        "estimated_cost": "25k-60k INR"
+    },
+    {
+        "timestamp": "2026-06-20 12:40:07",
+        "command": "Move 500kg of goods from chennai to kashmir with budget of 300000 within 2 days",
+        "source": "Chennai",
+        "destination": "Kashmir",
+        "recommended_mode": "Truck",
+        "estimated_cost": "50k-150k INR"
+    },
+    {
+        "timestamp": "2026-06-20 12:41:34",
+        "command": "Move 500kg of goods from chennai to kashmir with budget of 300000 within 2 days",
+        "source": "Chennai",
+        "destination": "Kashmir",
+        "recommended_mode": "Truck",
+        "estimated_cost": "50k-150k INR"
+    },
+    {
+        "timestamp": "2026-06-21 15:48:17",
+        "command": "move 1000 kg of goods from chennai to delhi within 200000 budget within 3 days of time",
+        "source": "Chennai",
+        "destination": "Delhi",
+        "recommended_mode": "Truck",
+        "estimated_cost": "25k-60k INR"
+    },
+    {
+        "timestamp": "2026-06-21 15:58:51",
+        "command": "move 1000 kg of goods from chennai to delhi within 200000 budget within 3 days of time",
+        "source": "Chennai",
+        "destination": "Delhi",
+        "recommended_mode": "Truck",
+        "estimated_cost": "25k-60k INR"
+    },
+    {
+        "timestamp": "2026-06-21 15:59:19",
+        "command": "move 1000 kg of goods from chennai to delhi within 200000 budget within 3 days of time",
+        "source": "Chennai",
+        "destination": "Delhi",
+        "recommended_mode": "Truck",
+        "estimated_cost": "25k-60k INR"
+    },
+    {
+        "timestamp": "2026-06-21 16:06:48",
+        "command": "move 1000 kg of goods from chennai to delhi within 200000 budget within 3 days of time",
+        "source": "Chennai",
+        "destination": "Delhi",
+        "recommended_mode": "Truck",
+        "estimated_cost": "25k-60k INR"
+    },
+    {
+        "timestamp": "2026-06-21 16:11:09",
+        "command": "move 1000 kg of goods from chennai to delhi within 200000 budget within 3 days of time",
+        "source": "chennai",
+        "destination": "delhi",
+        "recommended_mode": "Truck",
+        "estimated_cost": "25k-60k INR"
+    },
+    {
+        "timestamp": "2026-06-21 16:11:36",
+        "command": "move 1000 kg of goods from chennai to delhi within 200000 budget within 3 days of time",
+        "source": "chennai",
+        "destination": "delhi",
+        "recommended_mode": "Truck",
+        "estimated_cost": "25k-60k INR"
+    },
+    {
+        "timestamp": "2026-06-21 16:14:39",
+        "command": "what if to mumbai ?",
+        "source": "chennai",
+        "destination": "mumbai",
+        "recommended_mode": "Truck",
+        "estimated_cost": "25k-65k INR"
+    },
+    {
+        "timestamp": "2026-06-21 16:21:13",
+        "command": "move 1000 kg of goods from chennai to delhi within 200000 budget within 3 days of time",
+        "source": "chennai",
+        "destination": "delhi",
+        "recommended_mode": "Truck",
+        "estimated_cost": "25k-60k INR"
+    },
+    {
+        "timestamp": "2026-06-21 16:21:55",
+        "command": "what if to mumbai ?",
+        "source": "chennai",
+        "destination": "mumbai",
+        "recommended_mode": "Truck",
+        "estimated_cost": "30k-70k INR"
+    },
+    {
+        "timestamp": "2026-06-21 16:24:51",
+        "command": "move 1000 kg of goods from chennai to mumbai within 200000 budget within 3 days of time",
+        "source": "chennai",
+        "destination": "mumbai",
+        "recommended_mode": "Truck",
+        "estimated_cost": "40k-90k INR"
+    },
+    {
+        "timestamp": "2026-06-21 16:33:06",
+        "command": "move 1000 kg of goods from chennai to mumbai within 200000 budget within 3 days of time",
+        "source": "chennai",
+        "destination": "mumbai",
+        "recommended_mode": "Truck",
+        "estimated_cost": "40k-90k INR"
+    },
+    {
+        "timestamp": "2026-06-21 16:34:35",
+        "command": "move 1000 kg of goods from chennai to mumbai within 200000 budget within 3 days of time",
+        "source": "chennai",
+        "destination": "mumbai",
+        "recommended_mode": "Truck",
+        "estimated_cost": "40k-90k INR"
+    },
+    {
+        "timestamp": "2026-06-21 16:37:13",
+        "command": "move 1000 kg of goods from chennai to mumbai within 200000 budget within 3 days of time",
+        "source": "chennai",
+        "destination": "mumbai",
+        "recommended_mode": "Truck",
+        "estimated_cost": "40k-90k INR"
+    },
+    {
+        "timestamp": "2026-06-21 16:42:37",
+        "command": "move 1000 kg of goods from chennai to mumbai within 200000 budget within 3 days of time",
+        "source": "chennai",
+        "destination": "mumbai",
+        "recommended_mode": "Truck",
+        "estimated_cost": "40k-90k INR"
+    },
+    {
+        "timestamp": "2026-06-21 16:55:24",
+        "command": "move 1000 kg of goods from chennai to Delhi  within 200000 budget within 3 days of time",
+        "source": "chennai",
+        "destination": "Delhi",
+        "recommended_mode": "Truck",
+        "estimated_cost": "25k-60k INR"
+    },
+    {
+        "timestamp": "2026-06-21 17:45:13",
+        "command": "move 1000 kg of goods from chennai to delhi within the budget of 200000rs and within 3 days",
+        "source": "chennai",
+        "destination": "delhi",
+        "recommended_mode": "Truck",
+        "estimated_cost": "25k-60k INR"
+    },
+    {
+        "timestamp": "2026-06-22 10:42:11",
+        "command": "Move 1000 kg of goods from chennai to delhi within the budget of 200000rs and within 3 days",
+        "source": "chennai",
+        "destination": "delhi",
+        "recommended_mode": "Truck",
+        "estimated_cost": "25k-60k INR"
+    },
+    {
+        "timestamp": "2026-06-22 10:45:33",
+        "command": "optinize",
+        "source": "chennai",
+        "destination": "delhi",
+        "recommended_mode": "Truck",
+        "estimated_cost": "25k-60k INR"
+    },
+    {
+        "timestamp": "2026-06-22 10:49:33",
+        "command": "Move 1000 kg of goods from chennai to delhi within the budget of 200000rs and within 3 days",
+        "source": "chennai",
+        "destination": "delhi",
+        "recommended_mode": "Air Cargo",
+        "estimated_cost": "80k-200k INR"
+    },
+    {
+        "timestamp": "2026-06-22 11:45:45",
+        "command": "move 1000 kg of goods from chennai to delhi within the budget of 200000rs and within 3 days",
+        "source": "chennai",
+        "destination": "delhi",
+        "recommended_mode": "Air Cargo",
+        "estimated_cost": "80k-200k INR"
+    },
+    {
+        "timestamp": "2026-06-22 11:52:38",
+        "command": "what if to mumbai",
+        "source": "chennai",
+        "destination": "mumbai",
+        "recommended_mode": "Air Cargo",
+        "estimated_cost": "70k-150k INR"
+    }
+]
